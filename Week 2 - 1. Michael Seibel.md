@@ -1,0 +1,7 @@
+- 3 things that allowed Siebel's team to survive:
+  - Founding team was incredibly technical. Don't get intimidated by any technical challenge.
+  - Don't spend a lot of money. Being frugal is wise. gives you ability to screw up and make mistakes.
+  - Ego should be highly tied to the startup. Don't work for adding resume points. Treat this as a failure of this idea is failure in life. Don't give up.
+- Founders should know why are they solving a problem? what exactly is the problem you are trying to solve? What are we doing? What do we expect the solution to be?
+- If someone asks you what you are solving and you find yourself answering the question with an essay, you clearly do not know what you are solving.
+- Alright, this is the problem. Who can we help first? Often, founders skip this step. What can we address immediately? How can we get the first indication that this is working.
